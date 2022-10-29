@@ -15,7 +15,7 @@ The collaborative interaction mechanisms of biological swarms in nature are of g
 
 We validated the proposed model on swarm collision avoidance tasks (a swarm of unmanned aerial vehicles without central control) in a bounded space, carrying out simulation and real-world experiments. The drone swarm emerges with safe flight behavior, as shown in the following video. Compared with artificial neural network-based online learning methods, our proposed method exhibits superior performance and better stability. 
 
-![description](./collision avoidance.mp4)
+<iframe height=498 width=510 src="./collision avoidance.mp4">
 
 
 
