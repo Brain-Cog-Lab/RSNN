@@ -20,6 +20,10 @@ We validated the proposed model on swarm collision avoidance tasks (a swarm of u
 ## Run
  "reward-modulated snn on swarm collision avoidance.py"  includes the self-organized collision avoidance implemented by RSNN for simulation scenarios.
  "flytestfive.py"  includes five UAVs swarm collision avoidance validation in real bounded scenario.
+ 
+ ## Requirments
+* "reward-modulated snn on swarm collision avoidance.py": python==3.7, numpy>=3.7
+* "flytestfive.py": multi_robomaster
 
 
 
