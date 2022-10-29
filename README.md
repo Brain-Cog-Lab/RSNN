@@ -22,7 +22,7 @@ We validated the proposed model on swarm collision avoidance tasks (a swarm of u
  * "flytestfive.py"  includes five UAVs swarm collision avoidance validation in real bounded scenario.
  
  ## Requirments
-* "reward-modulated snn on swarm collision avoidance.py": python==3.7, numpy>=3.7
+* "reward-modulated snn on swarm collision avoidance.py": python==3.7, numpy>=1.21.6
 * "flytestfive.py": multi_robomaster
 
 
